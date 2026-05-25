@@ -1,0 +1,8 @@
+[package]
+name = "function_simulator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.26"   # GUIフレームワーク
+egui_plot = "0.26" # グラフ描画プラグイン
